@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="20">
+<vec>
+	<count>7</count>
+	<item_version>0</item_version>
+	<item>1</item>
+	<item>2</item>
+	<item>3</item>
+	<item>4</item>
+	<item>45</item>
+	<item>67</item>
+	<item>89</item>
+</vec>
+</boost_serialization>
+
