@@ -1,0 +1,4 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__WSAStartup@8，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__WSACleanup@0，该符号在函数 _main 中被引用
+C:\Users\gys\source\repos\MyServer\MyServer\Debug\MyServer.exe : fatal error LNK1120: 2 个无法解析的外部命令

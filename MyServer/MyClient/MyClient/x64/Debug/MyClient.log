@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\gys\source\repos\myserver\myclient\myclient\main.cpp(62): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+  MyClient.vcxproj -> C:\Users\gys\source\repos\MyServer\MyClient\x64\Debug\MyClient.exe
